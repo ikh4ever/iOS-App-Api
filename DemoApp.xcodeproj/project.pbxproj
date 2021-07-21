@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		013492F32671312E00DC9EA2 /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 013492F22671312E00DC9EA2 /* DetailsViewController.swift */; };
 		01C2EA8F266FD24D007B4CB2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01C2EA8E266FD24D007B4CB2 /* AppDelegate.swift */; };
 		01C2EA91266FD24D007B4CB2 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01C2EA90266FD24D007B4CB2 /* SceneDelegate.swift */; };
 		01C2EA93266FD24D007B4CB2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01C2EA92266FD24D007B4CB2 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		013492F22671312E00DC9EA2 /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
 		01C2EA8B266FD24D007B4CB2 /* DemoApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DemoApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		01C2EA8E266FD24D007B4CB2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		01C2EA90266FD24D007B4CB2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				01C2EA97266FD24E007B4CB2 /* Assets.xcassets */,
 				01C2EA99266FD24E007B4CB2 /* LaunchScreen.storyboard */,
 				01C2EA9C266FD24E007B4CB2 /* Info.plist */,
+				013492F22671312E00DC9EA2 /* DetailsViewController.swift */,
 			);
 			path = DemoApp;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 				01C2EA93266FD24D007B4CB2 /* ViewController.swift in Sources */,
 				01C2EA8F266FD24D007B4CB2 /* AppDelegate.swift in Sources */,
 				01C2EA91266FD24D007B4CB2 /* SceneDelegate.swift in Sources */,
+				013492F32671312E00DC9EA2 /* DetailsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
